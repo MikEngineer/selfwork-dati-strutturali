@@ -31,6 +31,6 @@ let array_1 = [
     array_1[2][1],
     array_2[3][0],
     array_2[4][1],
-    array_1[0][]
+    array_1[0][2]
 );
   
